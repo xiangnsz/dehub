@@ -561,3 +561,8 @@ PostgreSQL 元数据索引
 ---
 
 **西安国能数智科技有限公司**　公司官网：<http://www.ai-energy.cn>
+
+**GitHub:** https://github.com/xiangnsz/dehub
+
+**联系人：**
+张经理（18592056057）  杨经理（18592058710）  樊经理（18629316031）
